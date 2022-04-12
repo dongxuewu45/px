@@ -1,0 +1,39 @@
+[
+  {
+      "bookSourceComment": "",
+      "bookSourceGroup": "test",
+      "bookSourceName": "【努努影院】",
+      "bookSourceType": 2,
+      "bookSourceUrl": "https://www.nnyy6.top",
+      "customOrder": 15,
+      "enabled": true,
+      "enabledExplore": false,
+      "lastUpdateTime": 0,
+      "ruleBookInfo": {
+        "author": "",
+        "coverUrl": "",
+        "intro": "",
+        "kind": "",
+        "lastChapter": "",
+        "name": ""
+      },
+      "ruleContent": { "content": "a@href" },
+      "ruleExplore": {},
+      "ruleSearch": {
+        "bookList": ".container content-wrap lists-content ul li",
+        "name": "a img@alt",
+        "author": "a img@alt",
+        "bookUrl": "a@href",
+        "coverUrl": "a img@src",
+        "kind": "",
+        "lastChapter": ""
+      },
+      "ruleToc": {
+        "chapterList": ".playlist clearfix ul li",
+        "chapterName": "a@text",
+        "chapterUrl": "a@href"
+      },
+      "searchUrl": "https://www.nnyy6.top/so/{{key}}-{{key}}-.html",
+      "weight": 0
+    }
+  ]
