@@ -31,7 +31,7 @@
       "ruleToc": {
         "chapterList": ".playlist clearfix ul li",
         "chapterName": "a@text",
-        "chapterUrl": "a@href"
+        "chapterUrl": "a href@text"
       },
       "searchUrl": "https://www.nnyy6.top/so/{{key}}-{{key}}-.html",
       "weight": 0
